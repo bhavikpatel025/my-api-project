@@ -119,30 +119,4 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-// Seed database
-using (var scope = app.Services.CreateScope())
-{
-    var context = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
-    context.Database.Migrate();
-
-    if (!context.Users.Any(u => u.EmailAddress == ""))
-    {
-        var adminUser = new User
-        {
-            FirstName = "Admin",
-            LastName = "User",
-            EmailAddress = "admin@company.com",
-            Department = "IT",
-            Designation = "Administrator",
-            ContactNo = "9999999999",
-            Password = BCrypt.Net.BCrypt.HashPassword(""),
-            RoleId = 1
-        };
-
-        context.Users.Add(adminUser);
-        context.SaveChanges();
-    }
-}
-
-
 app.Run();
