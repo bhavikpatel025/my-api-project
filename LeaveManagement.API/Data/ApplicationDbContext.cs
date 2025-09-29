@@ -36,22 +36,6 @@ namespace LeaveManagement.API.Data
       new LeaveType { Id = 3, Type = "Leave Without Pay", Description = "Unpaid leave", ValidFrom = validFrom, ValidTo = validTo }
   );
 
-            // Seed Admin User
-            //modelBuilder.Entity<User>().HasData(
-            //    new User
-            //    {
-            //        Id = 1,
-            //        FirstName = "Admin",
-            //        LastName = "User",
-            //        EmailAddress = "admin@company.com",
-            //        Department = "IT",
-            //        Designation = "Administrator",
-            //        ContactNo = "9999999999",
-            //        Password = BCrypt.Net.BCrypt.HashPassword("admin123"),
-            //        RoleId = 1
-            //    }
-            //);
-
             // Configure relationships
             modelBuilder.Entity<User>()
                 .HasOne(u => u.Role)
