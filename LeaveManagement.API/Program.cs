@@ -125,7 +125,7 @@ using (var scope = app.Services.CreateScope())
     var context = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
     context.Database.Migrate();
 
-    if (!context.Users.Any(u => u.EmailAddress == "admin@company.com"))
+    if (!context.Users.Any(u => u.EmailAddress == ""))
     {
         var adminUser = new User
         {
@@ -135,7 +135,7 @@ using (var scope = app.Services.CreateScope())
             Department = "IT",
             Designation = "Administrator",
             ContactNo = "9999999999",
-            Password = BCrypt.Net.BCrypt.HashPassword("admin123"),
+            Password = BCrypt.Net.BCrypt.HashPassword(""),
             RoleId = 1
         };
 
