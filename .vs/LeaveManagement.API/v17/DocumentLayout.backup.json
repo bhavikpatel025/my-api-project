@@ -1,0 +1,581 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Bhavik\\Project\\LeaveManagement.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|e:\\bhavik\\project\\leavemanagement.api\\leavemanagement.api\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|solutionrelative:leavemanagement.api\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|e:\\bhavik\\project\\leavemanagement.api\\leavemanagement.api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|solutionrelative:leavemanagement.api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|e:\\bhavik\\project\\leavemanagement.api\\leavemanagement.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|solutionrelative:leavemanagement.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|e:\\bhavik\\project\\leavemanagement.api\\leavemanagement.api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|solutionrelative:leavemanagement.api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|e:\\bhavik\\project\\leavemanagement.api\\leavemanagement.api\\dtos\\uploadprofilepicturedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|solutionrelative:leavemanagement.api\\dtos\\uploadprofilepicturedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|e:\\bhavik\\project\\leavemanagement.api\\leavemanagement.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|solutionrelative:leavemanagement.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|e:\\bhavik\\project\\leavemanagement.api\\leavemanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|solutionrelative:leavemanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|e:\\bhavik\\project\\leavemanagement.api\\leavemanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|solutionrelative:leavemanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|e:\\bhavik\\project\\leavemanagement.api\\leavemanagement.api\\leavemanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|solutionrelative:leavemanagement.api\\leavemanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|e:\\bhavik\\project\\leavemanagement.api\\leavemanagement.api\\migrations\\20250922054243_addprofilepicturetouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|solutionrelative:leavemanagement.api\\migrations\\20250922054243_addprofilepicturetouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|e:\\bhavik\\project\\leavemanagement.api\\leavemanagement.api\\migrations\\20250916124838_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|solutionrelative:leavemanagement.api\\migrations\\20250916124838_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|e:\\bhavik\\project\\leavemanagement.api\\leavemanagement.api\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|solutionrelative:leavemanagement.api\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|e:\\bhavik\\project\\leavemanagement.api\\leavemanagement.api\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|solutionrelative:leavemanagement.api\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|e:\\bhavik\\project\\leavemanagement.api\\leavemanagement.api\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|solutionrelative:leavemanagement.api\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|e:\\bhavik\\project\\leavemanagement.api\\leavemanagement.api\\dtos\\profilepicturedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|solutionrelative:leavemanagement.api\\dtos\\profilepicturedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|e:\\bhavik\\project\\leavemanagement.api\\leavemanagement.api\\services\\leaveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|solutionrelative:leavemanagement.api\\services\\leaveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|e:\\bhavik\\project\\leavemanagement.api\\leavemanagement.api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|solutionrelative:leavemanagement.api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|e:\\bhavik\\project\\leavemanagement.api\\leavemanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|solutionrelative:leavemanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|e:\\bhavik\\project\\leavemanagement.api\\leavemanagement.api\\models\\leave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|solutionrelative:leavemanagement.api\\models\\leave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|e:\\bhavik\\project\\leavemanagement.api\\leavemanagement.api\\models\\leavebalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|solutionrelative:leavemanagement.api\\models\\leavebalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|e:\\bhavik\\project\\leavemanagement.api\\leavemanagement.api\\models\\leavetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|solutionrelative:leavemanagement.api\\models\\leavetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|e:\\bhavik\\project\\leavemanagement.api\\leavemanagement.api\\models\\paginationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|solutionrelative:leavemanagement.api\\models\\paginationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|e:\\bhavik\\project\\leavemanagement.api\\leavemanagement.api\\controllers\\leavescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|solutionrelative:leavemanagement.api\\controllers\\leavescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|e:\\bhavik\\project\\leavemanagement.api\\leavemanagement.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|solutionrelative:leavemanagement.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|e:\\bhavik\\project\\leavemanagement.api\\leavemanagement.api\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|solutionrelative:leavemanagement.api\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|e:\\bhavik\\project\\leavemanagement.api\\leavemanagement.api\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|solutionrelative:leavemanagement.api\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|e:\\bhavik\\project\\leavemanagement.api\\leavemanagement.api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|solutionrelative:leavemanagement.api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|e:\\bhavik\\project\\leavemanagement.api\\leavemanagement.api\\dtos\\leavetypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|solutionrelative:leavemanagement.api\\dtos\\leavetypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|e:\\bhavik\\project\\leavemanagement.api\\leavemanagement.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B5F946-6379-4ED0-9C50-672B0F14FDB7}|LeaveManagement.API\\LeaveManagement.API.csproj|solutionrelative:leavemanagement.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Migrations\\20250916123708_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeaveManagement.API\\Migrations\\20250916123708_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Migrations\\20250916123228_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeaveManagement.API\\Migrations\\20250916123228_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Migrations\\20250916122925_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeaveManagement.API\\Migrations\\20250916122925_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Migrations\\20250916122027_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeaveManagement.API\\Migrations\\20250916122027_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Migrations\\20250916120441_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeaveManagement.API\\Migrations\\20250916120441_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\.nuget\\packages\\epplus\\8.1.1\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\Controllers\\UsersController.cs",
+              "ToolTip": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "LeaveManagement.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAAAJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T11:59:17.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\Services\\UserService.cs",
+              "ToolTip": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Services\\UserService.cs",
+              "RelativeToolTip": "LeaveManagement.API\\Services\\UserService.cs",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAiwAEBAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T11:53:57.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\Models\\User.cs",
+              "ToolTip": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Models\\User.cs",
+              "RelativeToolTip": "LeaveManagement.API\\Models\\User.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAADwv1EAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T10:56:14.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\Program.cs",
+              "ToolTip": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Program.cs",
+              "RelativeToolTip": "LeaveManagement.API\\Program.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T12:00:35.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UploadProfilePictureDto.cs",
+              "DocumentMoniker": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\DTOs\\UploadProfilePictureDto.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\DTOs\\UploadProfilePictureDto.cs",
+              "ToolTip": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\DTOs\\UploadProfilePictureDto.cs",
+              "RelativeToolTip": "LeaveManagement.API\\DTOs\\UploadProfilePictureDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T05:07:29.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\DTOs\\UserDto.cs",
+              "ToolTip": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "LeaveManagement.API\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T11:50:43.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\Services\\FileService.cs",
+              "ToolTip": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Services\\FileService.cs",
+              "RelativeToolTip": "LeaveManagement.API\\Services\\FileService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwBAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T05:03:41.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\appsettings.json",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\appsettings.json",
+              "ToolTip": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\appsettings.json",
+              "RelativeToolTip": "LeaveManagement.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-16T12:01:29.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LeaveManagement.API.csproj",
+              "DocumentMoniker": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\LeaveManagement.API.csproj",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\LeaveManagement.API.csproj",
+              "ToolTip": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\LeaveManagement.API.csproj",
+              "RelativeToolTip": "LeaveManagement.API\\LeaveManagement.API.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-16T11:02:59.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250916124838_InitialCreate.cs",
+              "DocumentMoniker": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Migrations\\20250916124838_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\Migrations\\20250916124838_InitialCreate.cs",
+              "ToolTip": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Migrations\\20250916124838_InitialCreate.cs",
+              "RelativeToolTip": "LeaveManagement.API\\Migrations\\20250916124838_InitialCreate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T12:48:38.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250922054243_AddProfilePictureToUser.cs",
+              "DocumentMoniker": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Migrations\\20250922054243_AddProfilePictureToUser.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\Migrations\\20250922054243_AddProfilePictureToUser.cs",
+              "ToolTip": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Migrations\\20250922054243_AddProfilePictureToUser.cs",
+              "RelativeToolTip": "LeaveManagement.API\\Migrations\\20250922054243_AddProfilePictureToUser.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T05:42:43.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Mappings\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\Mappings\\AutoMapperProfile.cs",
+              "ToolTip": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Mappings\\AutoMapperProfile.cs",
+              "RelativeToolTip": "LeaveManagement.API\\Mappings\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T11:51:34.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Role.cs",
+              "DocumentMoniker": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\Models\\Role.cs",
+              "ToolTip": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Models\\Role.cs",
+              "RelativeToolTip": "LeaveManagement.API\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T10:57:50.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProfilePictureDto.cs",
+              "DocumentMoniker": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\DTOs\\ProfilePictureDto.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\DTOs\\ProfilePictureDto.cs",
+              "ToolTip": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\DTOs\\ProfilePictureDto.cs",
+              "RelativeToolTip": "LeaveManagement.API\\DTOs\\ProfilePictureDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T05:05:28.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "LeaveManagement.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowCIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T11:58:38.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LeaveBalance.cs",
+              "DocumentMoniker": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Models\\LeaveBalance.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\Models\\LeaveBalance.cs",
+              "ToolTip": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Models\\LeaveBalance.cs",
+              "RelativeToolTip": "LeaveManagement.API\\Models\\LeaveBalance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T11:01:49.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Leave.cs",
+              "DocumentMoniker": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Models\\Leave.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\Models\\Leave.cs",
+              "ToolTip": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Models\\Leave.cs",
+              "RelativeToolTip": "LeaveManagement.API\\Models\\Leave.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwBQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T11:00:25.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\Services\\JwtService.cs",
+              "ToolTip": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Services\\JwtService.cs",
+              "RelativeToolTip": "LeaveManagement.API\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwEoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T11:52:27.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\DTOs\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\DTOs\\UpdateUserDto.cs",
+              "ToolTip": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\DTOs\\UpdateUserDto.cs",
+              "RelativeToolTip": "LeaveManagement.API\\DTOs\\UpdateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:51:06.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LeaveService.cs",
+              "DocumentMoniker": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Services\\LeaveService.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\Services\\LeaveService.cs",
+              "ToolTip": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Services\\LeaveService.cs",
+              "RelativeToolTip": "LeaveManagement.API\\Services\\LeaveService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T11:55:08.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LeaveType.cs",
+              "DocumentMoniker": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Models\\LeaveType.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\Models\\LeaveType.cs",
+              "ToolTip": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Models\\LeaveType.cs",
+              "RelativeToolTip": "LeaveManagement.API\\Models\\LeaveType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T10:59:09.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PaginationResult.cs",
+              "DocumentMoniker": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Models\\PaginationResult.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\Models\\PaginationResult.cs",
+              "ToolTip": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Models\\PaginationResult.cs",
+              "RelativeToolTip": "LeaveManagement.API\\Models\\PaginationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T05:22:13.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LeavesController.cs",
+              "DocumentMoniker": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Controllers\\LeavesController.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\Controllers\\LeavesController.cs",
+              "ToolTip": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Controllers\\LeavesController.cs",
+              "RelativeToolTip": "LeaveManagement.API\\Controllers\\LeavesController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAcwIIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T11:59:44.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "LeaveManagement.API\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswD4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T11:03:13.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegisterUserDto.cs",
+              "DocumentMoniker": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\DTOs\\RegisterUserDto.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\DTOs\\RegisterUserDto.cs",
+              "ToolTip": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\DTOs\\RegisterUserDto.cs",
+              "RelativeToolTip": "LeaveManagement.API\\DTOs\\RegisterUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T13:24:47.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\DTOs\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\DTOs\\LoginResponseDto.cs",
+              "ToolTip": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\DTOs\\LoginResponseDto.cs",
+              "RelativeToolTip": "LeaveManagement.API\\DTOs\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T13:24:48.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\DTOs\\LoginDto.cs",
+              "ToolTip": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "LeaveManagement.API\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T11:49:28.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LeaveTypeDto.cs",
+              "DocumentMoniker": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\DTOs\\LeaveTypeDto.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\DTOs\\LeaveTypeDto.cs",
+              "ToolTip": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\DTOs\\LeaveTypeDto.cs",
+              "RelativeToolTip": "LeaveManagement.API\\DTOs\\LeaveTypeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T11:47:05.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "LeaveManagement.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T13:03:33.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250916122925_InitialCreate.cs",
+              "DocumentMoniker": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Migrations\\20250916122925_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\Migrations\\20250916122925_InitialCreate.cs",
+              "ToolTip": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Migrations\\20250916122925_InitialCreate.cs",
+              "RelativeToolTip": "LeaveManagement.API\\Migrations\\20250916122925_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T12:29:25.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250916123228_InitialCreate.cs",
+              "DocumentMoniker": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Migrations\\20250916123228_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\Migrations\\20250916123228_InitialCreate.cs",
+              "ToolTip": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Migrations\\20250916123228_InitialCreate.cs",
+              "RelativeToolTip": "LeaveManagement.API\\Migrations\\20250916123228_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T12:32:29.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250916123708_InitialCreate.cs",
+              "DocumentMoniker": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Migrations\\20250916123708_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\Migrations\\20250916123708_InitialCreate.cs",
+              "ToolTip": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Migrations\\20250916123708_InitialCreate.cs",
+              "RelativeToolTip": "LeaveManagement.API\\Migrations\\20250916123708_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T12:37:08.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250916122027_InitialCreate.cs",
+              "DocumentMoniker": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Migrations\\20250916122027_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\Migrations\\20250916122027_InitialCreate.cs",
+              "ToolTip": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Migrations\\20250916122027_InitialCreate.cs",
+              "RelativeToolTip": "LeaveManagement.API\\Migrations\\20250916122027_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T12:20:27.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250916120441_InitialCreate.cs",
+              "DocumentMoniker": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Migrations\\20250916120441_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\Migrations\\20250916120441_InitialCreate.cs",
+              "ToolTip": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\Migrations\\20250916120441_InitialCreate.cs",
+              "RelativeToolTip": "LeaveManagement.API\\Migrations\\20250916120441_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T12:04:41.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\.nuget\\packages\\epplus\\8.1.1\\readme.txt",
+              "ToolTip": "C:\\Users\\ADMIN\\.nuget\\packages\\epplus\\8.1.1\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-16T11:18:46.763Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\wwwroot\\uploads\\profiles\\user_1004_16f294d6-7521-4acd-a516-fbe5a99ccce4.png",
+      "PackagePath": "staticwebassets\\uploads\\profiles\\user_1004_16f294d6-7521-4acd-a516-fbe5a99ccce4.png"
+    },
+    {
+      "Id": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\wwwroot\\uploads\\profiles\\user_1_5790506e-1ca0-434e-902f-f448f4bd9444.png",
+      "PackagePath": "staticwebassets\\uploads\\profiles\\user_1_5790506e-1ca0-434e-902f-f448f4bd9444.png"
+    },
+    {
+      "Id": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\wwwroot\\uploads\\profiles\\user_2003_3770c6c1-bea1-4c81-8544-b34c5548e56c.png",
+      "PackagePath": "staticwebassets\\uploads\\profiles\\user_2003_3770c6c1-bea1-4c81-8544-b34c5548e56c.png"
+    },
+    {
+      "Id": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\wwwroot\\uploads\\profiles\\user_2_4ca05c89-a52c-4950-92d8-f3c8002ee912.png",
+      "PackagePath": "staticwebassets\\uploads\\profiles\\user_2_4ca05c89-a52c-4950-92d8-f3c8002ee912.png"
+    },
+    {
+      "Id": "E:\\Bhavik\\Project\\LeaveManagement.API\\LeaveManagement.API\\wwwroot\\uploads\\profiles\\user_6_87243b3a-ff43-4471-a51a-9cc4333b10fb.png",
+      "PackagePath": "staticwebassets\\uploads\\profiles\\user_6_87243b3a-ff43-4471-a51a-9cc4333b10fb.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LeaveManagement.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LeaveManagement.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LeaveManagement.API.props",
+      "PackagePath": "build\\LeaveManagement.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LeaveManagement.API.props",
+      "PackagePath": "buildMultiTargeting\\LeaveManagement.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LeaveManagement.API.props",
+      "PackagePath": "buildTransitive\\LeaveManagement.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
